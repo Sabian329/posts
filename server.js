@@ -15,6 +15,10 @@ app.post("/", (req, res) => {
 });
 
 app.delete("/", (req, res) => {
-  console.log("Method called is -- ", req.method);
-  res.end();
+  res.send("DELETE Request Called");
+});
+
+app.listen(PORT, function (err) {
+  if (err) console.log(err);
+  console.log("Server listening on PORT", PORT);
 });
