@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Post title",
+      "text": "Lorem Ipsum",
+      "created_at": "2023-01-09T11:25:28.919Z",
+      "updated_at": "2023-01-09T11:25:28.919Z",
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Post title",
+      "text": "Lorem Ipsum",
+      "created_at": "2023-01-09T11:25:28.919Z",
+      "updated_at": "2023-01-09T11:25:28.919Z",
+      "user_id": 1
+    },
+    {
+      "id": 3,
+      "title": "Post title",
+      "text": "Lorem Ipsum",
+      "created_at": "2023-01-09T11:25:28.919Z",
+      "updated_at": "2023-01-09T11:25:28.919Z",
+      "user_id": 1
+    }
+  ]
+}
